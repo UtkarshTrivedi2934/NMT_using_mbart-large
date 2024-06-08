@@ -3,7 +3,7 @@
 # npm install localtunnel
 
 # from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
-# import streamlit as st
+import streamlit as st
 
 st.title("Neural Machine Translation")
 
