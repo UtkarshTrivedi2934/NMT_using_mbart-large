@@ -1,6 +1,6 @@
-!pip install transformers
-!pip install streamlit
-!npm install localtunnel
+pip install transformers
+pip install streamlit
+npm install localtunnel
 
 from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
 import streamlit as st
