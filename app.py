@@ -2,7 +2,7 @@
 # pip install streamlit
 # npm install localtunnel
 
-# from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
+from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
 import streamlit as st
 
 st.title("Neural Machine Translation")
